@@ -7,22 +7,24 @@ Summary of MARL research paper with open-source implementations for characterizi
 - Partial-Structured Communication (antonym: All-to-all Communication)
 
 ## CTDE, Pre-defined Partial-Structured Communication
-1. Graph convolutional reinforcement learning. 2020. [Paper📃](https://arxiv.org/abs/1810.09202),  [Code⌨️-DGN](https://github.com/PKU-RL/DGN)
+1. Graph convolutional reinforcement learning. 2020. [Paper📃](https://arxiv.org/abs/1810.09202),  [⌨️Code-DGN](https://github.com/PKU-RL/DGN)
     - Agents share the same policy network (GNN). 
     
 ## CTDE, Pre-defined All-to-all Communication
-1. Learning multiagent communication with backpropagation. 2016. [Paper📃](https://arxiv.org/abs/1605.07736),  [Code⌨️-CommNet](https://github.com/KornbergFresnel/CommNet)
+1. Learning multiagent communication with backpropagation. 2016. [Paper📃](https://arxiv.org/abs/1605.07736),  [⌨️Code-CommNet](https://github.com/KornbergFresnel/CommNet)
     - Agents share the same policy parameters, and are trained synchronously
-2. Learning to Communicate with Deep Multi-Agent Reinforcement Learning. 2016. [Paper📃](https://arxiv.org/abs/1605.06676),  [Code⌨️-DIAL/RIAL](https://github.com/minqi/learning-to-communicate-pytorch)
+2. Learning to Communicate with Deep Multi-Agent Reinforcement Learning. 2016. [Paper📃](https://arxiv.org/abs/1605.06676),  [⌨️Code-DIAL/RIAL](https://github.com/minqi/learning-to-communicate-pytorch)
 
+## CTDE, Learnable Communication
+1. TOM2C: Target-Oriented Multi-Agent Communication AND Cooperation with Theory of Mind. 2022. [Paper📃](https://arxiv.org/pdf/2111.09189.pdf),  [⌨️Code-ToM2C](https://github.com/UnrealTracking/ToM2C)
 
 ## Decentralized Learning, Pre-defined Partial-Structured Communication
-1. Deep multi-agent reinforcement learning with relevance graphs. 2018. [Paper📃](https://arxiv.org/abs/1811.12557),  [Code⌨️-MAGNet](https://github.com/tegg89/magnet)
+1. Deep multi-agent reinforcement learning with relevance graphs. 2018. [Paper📃](https://arxiv.org/abs/1811.12557),  [⌨️Code-MAGNet](https://github.com/tegg89/magnet)
     - Combines RL with GNN. 
     - Messages are weighted.
-2. Learning transferable cooperative behavior in multi-agent teams. 2020. [Paper📃](https://arxiv.org/pdf/1906.01202.pdf),  [Code⌨️-Agent-Entity-Graph](https://github.com/sumitsk/marl_transfer)
+2. Learning transferable cooperative behavior in multi-agent teams. 2020. [Paper📃](https://arxiv.org/pdf/1906.01202.pdf),  [⌨️Code-Agent-Entity-Graph](https://github.com/sumitsk/marl_transfer)
     - Models simulation environemnts as agent-enttity graphs. Uses GNN. 
 
 ## Decentralized Learning, Pre-defined All-to-all Communication
-1. Multi-agent reinforcement learning for networked system control. 2020. [Paper📃](https://arxiv.org/pdf/2004.01339.pdf),  [Code⌨️-NeurComm](https://github.com/cts198859/deeprl_network)
+1. Multi-agent reinforcement learning for networked system control. 2020. [Paper📃](https://arxiv.org/pdf/2004.01339.pdf),  [⌨️Code-NeurComm](https://github.com/cts198859/deeprl_network)
 
