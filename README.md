@@ -20,14 +20,15 @@ Summary of MARL research paper with open-source implementations for characterizi
 1. TOM2C: Target-Oriented Multi-Agent Communication AND Cooperation with Theory of Mind. 2022. [Paper📃](https://arxiv.org/pdf/2111.09189.pdf),  [⌨️Code-ToM2C](https://github.com/UnrealTracking/ToM2C)
 
 ## Decentralized Learning, Pre-defined Partial-Structured Communication
-1. Deep multi-agent reinforcement learning with relevance graphs. 2018. [Paper📃](https://arxiv.org/abs/1811.12557),  [⌨️Code-MAGNet](https://github.com/tegg89/magnet)
+1. Multi-agent reinforcement learning for networked system control. 2020. [Paper📃](https://arxiv.org/pdf/2004.01339.pdf), [⌨️Code-NeurComm](https://github.com/cts198859/deeprl_network)
+2. Deep multi-agent reinforcement learning with relevance graphs. 2018. [Paper📃](https://arxiv.org/abs/1811.12557),  [⌨️Code-MAGNet](https://github.com/tegg89/magnet)
     - Combines RL with GNN. 
     - Messages are weighted.
-2. Learning transferable cooperative behavior in multi-agent teams. 2020. [Paper📃](https://arxiv.org/pdf/1906.01202.pdf),  [⌨️Code-Agent-Entity-Graph](https://github.com/sumitsk/marl_transfer)
+3. Learning transferable cooperative behavior in multi-agent teams. 2020. [Paper📃](https://arxiv.org/pdf/1906.01202.pdf),  [⌨️Code-Agent-Entity-Graph](https://github.com/sumitsk/marl_transfer)
     - Models simulation environemnts as agent-enttity graphs. Uses GNN. 
 
 ## Decentralized Learning, Pre-defined All-to-all Communication
-1. Multi-agent reinforcement learning for networked system control. 2020. [Paper📃](https://arxiv.org/pdf/2004.01339.pdf),  [⌨️Code-NeurComm](https://github.com/cts198859/deeprl_network)
+
 
 ## Decentralized Learning, Learnable Communication
 1. Model-based Multi-agent Policy Optimization with Adaptive Opponent-wise Rollouts. 2021. [Paper📃](https://arxiv.org/abs/2105.03363),  [⌨️Code-AORPO](https://github.com/apexrl/AORPO/)
