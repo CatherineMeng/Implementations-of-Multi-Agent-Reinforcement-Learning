@@ -14,6 +14,7 @@ Summary of MARL research paper with open-source implementations for characterizi
 1. Learning multiagent communication with backpropagation. 2016. [Paper📃](https://arxiv.org/abs/1605.07736),  [⌨️Code-CommNet](https://github.com/KornbergFresnel/CommNet)
     - Agents share the same policy parameters, and are trained synchronously
 2. Learning to Communicate with Deep Multi-Agent Reinforcement Learning. 2016. [Paper📃](https://arxiv.org/abs/1605.06676),  [⌨️Code-DIAL/RIAL](https://github.com/minqi/learning-to-communicate-pytorch)
+3. Multi-Agent Actor-Critic for Mixed Cooperative-Competitive Environments. 2017. [Paper📃](https://arxiv.org/abs/1706.02275),  [⌨️Code-MADDPG](https://github.com/shariqiqbal2810/maddpg-pytorch)
 
 ## CTDE, Learnable Communication
 1. TOM2C: Target-Oriented Multi-Agent Communication AND Cooperation with Theory of Mind. 2022. [Paper📃](https://arxiv.org/pdf/2111.09189.pdf),  [⌨️Code-ToM2C](https://github.com/UnrealTracking/ToM2C)
@@ -27,4 +28,8 @@ Summary of MARL research paper with open-source implementations for characterizi
 
 ## Decentralized Learning, Pre-defined All-to-all Communication
 1. Multi-agent reinforcement learning for networked system control. 2020. [Paper📃](https://arxiv.org/pdf/2004.01339.pdf),  [⌨️Code-NeurComm](https://github.com/cts198859/deeprl_network)
+
+## Decentralized Learning, Learnable Communication
+1. Model-based Multi-agent Policy Optimization with Adaptive Opponent-wise Rollouts. 2021. [Paper📃](https://arxiv.org/abs/2105.03363),  [⌨️Code-AORPO](https://github.com/apexrl/AORPO/)
+    - This is a model-based algorithm.
 
